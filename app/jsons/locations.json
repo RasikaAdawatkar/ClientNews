@@ -1,0 +1,118 @@
+{
+    "network": {
+        "locations": [
+            {
+                "name": "Loc_13",
+                "is_a": "NONE",
+                "coordinates": [
+                    "11.0",
+                    "35.0"
+                ]
+            },
+            {
+                "name": "Loc_11",
+                "is_a": "NONE",
+                "coordinates": [
+                    "21.0",
+                    "35.0"
+                ]
+            },
+            {
+                "name": "Loc_14",
+                "is_a": "DEPOT",
+                "coordinates": [
+                    "10.0",
+                    "35.0"
+                ]
+            },
+            {
+                "name": "Loc_4",
+                "is_a": "NONE",
+                "coordinates": [
+                    "10.0",
+                    "10.0"
+                ]
+            },
+            {
+                "name": "Loc_10",
+                "is_a": "NONE",
+                "coordinates": [
+                    "10.5",
+                    "34.5"
+                ]
+            },
+            {
+                "name": "Loc_8",
+                "is_a": "DEPOT",
+                "coordinates": [
+                    "15.5",
+                    "30.0"
+                ]
+            },
+            {
+                "name": "Loc_9",
+                "is_a": "NONE",
+                "coordinates": [
+                    "20.5",
+                    "34.5"
+                ]
+            },
+            {
+                "name": "Loc_6",
+                "is_a": "DEPOT",
+                "coordinates": [
+                    "10.5",
+                    "10.5"
+                ]
+            },
+            {
+                "name": "Loc_7",
+                "is_a": "DEPOT",
+                "coordinates": [
+                    "15.5",
+                    "15.0"
+                ]
+            },
+            {
+                "name": "Loc_12",
+                "is_a": "HUB",
+                "coordinates": [
+                    "20.0",
+                    "35.0"
+                ]
+            },
+            {
+                "name": "Loc_5",
+                "is_a": "HUB",
+                "coordinates": [
+                    "20.5",
+                    "10.5"
+                ]
+            },
+            {
+                "name": "Loc_2",
+                "is_a": "NONE",
+                "coordinates": [
+                    "20.0",
+                    "10.0"
+                ]
+            },
+            {
+                "name": "Loc_3",
+                "is_a": "NONE",
+                "coordinates": [
+                    "11.0",
+                    "10.0"
+                ]
+            },
+            {
+                "name": "Loc_1",
+                "is_a": "NONE",
+                "coordinates": [
+                    "21.0",
+                    "10.0"
+                ]
+            }
+        ]
+    }
+}
